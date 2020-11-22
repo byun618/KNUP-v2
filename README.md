@@ -9,6 +9,8 @@
 [6. 개발 리뷰](#개발-리뷰)    
 [7. Getting Started](#Getting-Started)   
 
+기존 KNUP 프로젝트에서 import해서 개인 프로젝트로 개발
+
 ## 프로젝트 개요 (2020.03 - )
 * **명칭**  
 **K**yunpook **N**ational **U**niversity  **P**rint system
